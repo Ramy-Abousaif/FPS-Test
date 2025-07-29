@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{9c00c605-e290-4c4a-963e-9bb409d70d8e}">
+		<property name="assetPath">
+			<value>Background/Ambience/Spaceship.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>65.592857142857142</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{21338193-5b23-49a2-92c0-dae4c75ad389}</destination>
+		</relationship>
+	</object>
+</objects>
